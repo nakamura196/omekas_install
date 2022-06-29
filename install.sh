@@ -1,0 +1,15 @@
+cd themes
+wget https://github.com/omeka-s-themes/foundation-s/releases/download/v1.2.4/theme-foundation-s-v1.2.4.zip
+unzip theme-foundation-s-v1.2.4.zip 
+cd ../
+cd modules
+wget https://github.com/Daniel-KM/Omeka-S-module-IiifServer/releases/download/3.6.6.6/IiifServer-3.6.6.6.zip
+unzip IiifServer-3.6.6.6.zip
+wget https://github.com/Daniel-KM/Omeka-S-module-ImageServer/releases/download/3.6.10.3/ImageServer-3.6.10.3.zip
+unzip ImageServer-3.6.10.3.zip
+wget https://github.com/Daniel-KM/Omeka-S-module-UniversalViewer/releases/download/3.6.4.5/UniversalViewer-3.6.4.5.zip
+unzip UniversalViewer-3.6.4.5.zip
+wget https://github.com/Daniel-KM/Omeka-S-module-Next/releases/download/3.3.41/Next-3.3.41.zip
+unzip Next-3.3.41.zip
+wget https://github.com/omeka-s-modules/Mapping/releases/download/v1.5.0/Mapping-1.5.0.zip
+unzip Mapping-1.5.0.zip
