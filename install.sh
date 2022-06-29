@@ -13,3 +13,7 @@ wget https://github.com/Daniel-KM/Omeka-S-module-Next/releases/download/3.3.41/N
 unzip Next-3.3.41.zip
 wget https://github.com/omeka-s-modules/Mapping/releases/download/v1.5.0/Mapping-1.5.0.zip
 unzip Mapping-1.5.0.zip
+wget https://github.com/Daniel-KM/Omeka-S-module-BulkImport/releases/download/3.3.33.2/BulkImport-3.3.33.2.zip
+unzip BulkImport-3.3.33.2.zip
+wget https://github.com/Daniel-KM/Omeka-S-module-Log/releases/download/3.3.12.14/Log-3.3.12.14.zip
+unzip Log-3.3.12.14.zip
